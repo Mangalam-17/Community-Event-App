@@ -1,14 +1,16 @@
 import React from "react";
-import { createRoot } from "react-dom/client";
-import App from "./App.js";
+import ReactDOM from "react-dom/client";
+import App from "./App.jsx";
+import { BrowserRouter } from "react-router-dom";
+import { EventProvider } from "./context/EventContext.jsx";
+import "./styles.css";
 
-// Get the root element from the DOM
-const container = document.getElementById("root");
-const root = createRoot(container);
-
-// Render the App component into the root element
-root.render(
+ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <App />
+    <BrowserRouter>
+      <EventProvider>
+        <App />
+      </EventProvider>
+    </BrowserRouter>
   </React.StrictMode>
 );
