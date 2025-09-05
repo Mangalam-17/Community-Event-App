@@ -1,7 +1,4 @@
 # **Community Events**
-
-### 🚀Live Link -
-
 ### **A Modern Single-Page Application for Discovering and Hosting Local Events**
 
 ### 🌟 Project Overview
@@ -60,8 +57,8 @@ The application will be live at `http://localhost:3000`.
 ##### Add Event Page
 ![Add Event Page](https://github.com/Mangalam-17/Community-Event-App/blob/e86abcdb54847f9eb2546953b28ecff78a06463b/Preview/NewEventPage.png)
 
-### ✍️ Connect with me
 
+### ✍️ Connect with me
 - **Linkedin** - [Linkedin Profile Link](https://www.linkedin.com/in/mangalam-mishra-dev/)
 
 ---
