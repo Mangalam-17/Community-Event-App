@@ -46,15 +46,19 @@ This project was developed using a modern and industry-standard tech stack.
 
 The application will be live at `http://localhost:3000`.
 
-### 🖼️ Project Screenshot
+### 🖼️ Project Screenshots
 
+##### Home Page
 ![Home Page](https://github.com/Mangalam-17/Community-Event-App/blob/e86abcdb54847f9eb2546953b28ecff78a06463b/Preview/HomePage.png)
 
+##### Event Details Page
 ![Event Details Page](https://github.com/Mangalam-17/Community-Event-App/blob/e86abcdb54847f9eb2546953b28ecff78a06463b/Preview/EventDetailsPage.png)
 
+##### RSVP Confirmation Page
 ![RSVP Corfirmation Page](https://github.com/Mangalam-17/Community-Event-App/blob/e86abcdb54847f9eb2546953b28ecff78a06463b/Preview/RSVP_ConfirmationPage.png)
 
-![New Event Page](https://github.com/Mangalam-17/Community-Event-App/blob/e86abcdb54847f9eb2546953b28ecff78a06463b/Preview/NewEventPage.png)
+##### Add Event Page
+![Add Event Page](https://github.com/Mangalam-17/Community-Event-App/blob/e86abcdb54847f9eb2546953b28ecff78a06463b/Preview/NewEventPage.png)
 
 ### ✍️ Connect with me
 
