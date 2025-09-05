@@ -48,6 +48,15 @@ The application will be live at `http://localhost:3000`.
 
 ### 🖼️ Project Screenshot
 
+
+![Home Page](https://i.imgur.com/your-image-url.png)
+
+![Event Details Page](https://i.imgur.com/your-image-url.png)
+
+![RSVP Corfirmation Page](https://i.imgur.com/your-image-url.png)
+
+![New Event Page](https://i.imgur.com/your-image-url.png)
+
 ### ✍️ Author
 
 - **Mangalam Mishra** - [GitHub Profile Link](https://www.google.com/search?q=https://github.com/Mangalam-17)
