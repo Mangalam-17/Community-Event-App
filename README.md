@@ -62,6 +62,6 @@ The application will be live at `http://localhost:3000`.
 
 ### ✍️ Connect with me
 
-- \*\*Linkedin - [Linkedin Profile Link](https://www.linkedin.com/in/mangalam-mishra-dev/)
+- **Linkedin** - [Linkedin Profile Link](https://www.linkedin.com/in/mangalam-mishra-dev/)
 
 ---
